@@ -9,10 +9,6 @@
   box-sizing: border-box;
 }
 
-html {
-  font-size: 10px;
-}
-
 body {
   background-color: var(--primary-color);
   font-family: "Poppins", sans-serif;
